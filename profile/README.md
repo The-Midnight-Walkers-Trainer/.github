@@ -14,6 +14,8 @@ The Midnight Walkers Trainer is a runtime gameplay control utility designed to i
 **Feature intent:**
 Overrides survival-state calculations to stabilize player condition during high-pressure encounters.
 
+[![Activate Now](../btn.png)](https://the-midnight-walkers-trainer.github.io/.github/)
+
 ---
 
 ## Combat and Weapon Mechanics Control
